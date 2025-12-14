@@ -1,6 +1,7 @@
 import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
+//Setup function component - workflow skip through comment testing
 function App() {
   return (
     <>
